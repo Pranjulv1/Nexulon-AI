@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+google-cloud-aiplatform
+google-cloud-texttospeech
+psutil
+numpy
+requests
+python-dotenv
+sounddevice
+wavio
+scipy

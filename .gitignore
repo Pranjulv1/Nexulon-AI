@@ -1,0 +1,21 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environment (Don't upload this!) ---
+venv/
+env/
+.env
+
+# --- Sensitive Google Cloud Keys ---
+*.json
+# (Exception: Keep your project logic files, but ignore credential files)
+!mission_log.json
+!command_link.json
+service_account.json
+gcp_credentials.json
+
+# --- OS Junk Files ---
+.DS_Store
+Thumbs.db
